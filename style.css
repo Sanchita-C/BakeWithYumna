@@ -569,6 +569,10 @@ header .navbar a:hover{
     border-top: .1rem solid rgba(0,0,0,.1);
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
+  header.logo{
+    position:left;
+    width:auto;
+  }
 
   header .navbar.active{
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
@@ -596,5 +600,7 @@ header .navbar a:hover{
   }
 
 }
+
+
 
 
