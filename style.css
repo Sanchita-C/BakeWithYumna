@@ -7,6 +7,9 @@
 h1{
   text-align:center;
 }
+.pink{
+  color:var(--pink);
+}
 .bann{
   width:100px;
   position:absolute;
